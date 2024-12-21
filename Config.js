@@ -3,7 +3,7 @@ const chalk = require('chalk')
 
 //contact details
 global.ownernumber = ['254707235412']
-global.ownername = "Adams"//owner name
+global.ownername = "whatsappbot0"//owner name
 global.ytname = "YT: Kish-MD"
 global.socialm = "GitHub: Kish-MD"
 global.location = "Kenya"
